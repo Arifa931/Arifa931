@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arifa shirreen</h1>
 <h3 align="center">An enthusiastic learner from GCT Coimbatore</h3>
 
-- 📝 I regularly write articles on [arifacoderslife.blogspot.com](arifacoderslife.blogspot.com)
+- 📝 I write articles on [arifacoderslife.blogspot.com](arifacoderslife.blogspot.com)
 
 - 📫 How to reach me **arifashirreen@gmail.com**
 
